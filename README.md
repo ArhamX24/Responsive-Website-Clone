@@ -1,1 +1,1 @@
-## this is a responsive website clone using only html and css 
+## this is a responsive website clone using html, css and very basic javascript.
